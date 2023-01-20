@@ -1,7 +1,7 @@
 # my-nvm-commands
 useful nvm comman
 
-// check version
+// check version 
 node -v || node --version
 
 // list installed versions of node (via nvm)
